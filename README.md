@@ -29,6 +29,9 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 
 Step 08: Deploy Model to Production: Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
 
+# Comparsion
+![image](https://user-images.githubusercontent.com/99022806/206890413-8c7abfb9-3c19-4482-818b-ae66718d25e8.png)
+
 # CONCLUSION
 In analysis, we initially did EDA on all the features of our datset. We first analysed our dependent variable, 'Sales' and also transformed it. Next we analysed categorical variable and replaced null values, we also analysed numerical variable, found out the correlation, distribution and their relationship with the dependent variable using corr() Function. We also removed some numerical features who had mostly 0 values and hot encoded the categorical variables.
 
